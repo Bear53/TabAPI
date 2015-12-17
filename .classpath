@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Daniel/Desktop/ProtocolLib-3.6.3-20150510.140423-118.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daniel/Desktop/spigot_1.8.8_fdc1440-53fac9f.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
